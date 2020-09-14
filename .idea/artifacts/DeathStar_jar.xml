@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DeathStar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeathStar_jar</output-path>
+    <root id="archive" name="DeathStar.jar">
+      <element id="module-output" name="DeathStar" />
+    </root>
+  </artifact>
+</component>
